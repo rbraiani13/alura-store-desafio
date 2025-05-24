@@ -24,10 +24,10 @@ Ajudar o Sr. João, dono de uma rede de quatro lojas do e-commerce Alura Store, 
 
 Foram utilizados 4 arquivos `.csv`, um para cada loja, disponíveis neste repositório:
 
-- `loja.csv`  
-- `loja2.csv`  
-- `loja3.csv`  
-- `loja4.csv`  
+- `loja_1.csv`  
+- `loja_2.csv`  
+- `loja_3.csv`  
+- `loja_4.csv`  
 
 ---
 
